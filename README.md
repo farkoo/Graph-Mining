@@ -1,4 +1,4 @@
-# Graph-Mining @ IUT-4001
+# Graph Mining Course
 
 Solutions for Stanford CS224W Machine Learning with Graphs
 
